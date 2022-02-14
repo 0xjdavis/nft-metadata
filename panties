@@ -1,0 +1,20 @@
+{
+"name":"Panties",
+"description":"Mint your panties!\n\nThere are 10 different types, each type has 4 colors and 4 patterns. Some types also have extra details. Try to mint beautiful panties with detail! ☘️\n\n
+Traits:\n
+- Panties type\n
+- Panties color\n
+- Panties pattern\n
+- Has detail",
+"childrenDescription":"Digital panties.\n\nThere are 10 different types, each type has 4 colors and 4 patterns. Some types also have extra details.",
+"tags":[],
+"artifactUri":"ipfs://QmTN72uwCdRoNLniVRRnZPj3qDtj2jV12rtxcVVRkUcU3H",
+"displayUri":"ipfs://QmVtytGkGkjx3KV1KWxy5BmquogSgYNGycKjkgKiVh5tZx",
+"thumbnailUri":"ipfs://QmX2eXANGPKzVsBXbNo7zoBg1vjeUg4njjfEnWnhWKS6wE",
+"generativeUri":"ipfs://QmScQB6hKxW5WQq6U9nxib1ZgiyUAPAw7wfms9bzjBXJ1o",
+"authenticityHash":"e27cb1e79ec9995ac43f4f4c44aefbdb9e5ea6950d3361b4b6ed884f193db99c",
+"capture":{"mode":"VIEWPORT",
+"resolution":{"x":800,"y":800},"delay":100},
+"symbol":"FXGEN",
+"decimals":0
+}
